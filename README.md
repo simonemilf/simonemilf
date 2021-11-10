@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @simonemilf
+- 👀 I’m interested in fashion and coding
+- 🌱 I’m currently learning Node.js and Go
